@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2712096243907360466}
   - component: {fileID: 1171665305511967483}
   m_Layer: 0
-  m_Name: 'BlueSphere '
+  m_Name: BluePrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 1fb8bd4f89e786c498700672a943ba76, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

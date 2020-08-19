@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7236644042688776212}
   - component: {fileID: 1307344791168945356}
   m_Layer: 0
-  m_Name: RedSphere
+  m_Name: RedPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 1cbdb76446303a741b0fef1406cca0e4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
